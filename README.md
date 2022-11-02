@@ -10,5 +10,7 @@ Install as you would any other addon.
 
 ### Settings Explanation
 **/loc interval** sets the frequency in seconds that the player's position is recorded. default is `1` second
+
 **/loc precision** sets the precision with which the player's position is recorded. default is `2` decimal places (ex. 34.67,49.63)
+
 **/loc cull** toggles coordinate culling, which ignores duplicate successive entries. default is `enabled`
