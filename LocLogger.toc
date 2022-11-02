@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: LocLogger
+## Author: yttrium
+## Notes: Periodically logs player coordinates
+## Version: 1.0.0
+## SavedVariables: LL_INTERVAL, LL_ENABLED, LL_PRECISION, LL_CULLDUPE, LL_DATA
+LocLogger.lua
